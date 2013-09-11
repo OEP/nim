@@ -1,0 +1,4 @@
+nim
+===
+
+Noise image generator
